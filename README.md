@@ -1,5 +1,5 @@
 # DUPE-CoordiNote
-This is personal revision of the CoordiNote full stack project. This is intended for me to practice working on a full stack application. Another goal is to improve the original project -- this may mean completely modifying the overall look and design of the frontend as well as revising the backend to have better and more intuitive functionality.
+This is a personal revision of the CoordiNote full stack project. This is intended for me to practice working on a full stack application. Another goal is to improve the original project -- this may mean completely modifying the overall look and design of the frontend as well as revising the backend to have better and more intuitive functionality.
 
 ---
 README file content from original repo:
